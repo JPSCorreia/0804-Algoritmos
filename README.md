@@ -23,7 +23,7 @@
 
 ---
 
-####Exercicio 1:
+#### Exercicio 1:
 
 **Converter estes numeros: 101, 1010, 100000000**
 
