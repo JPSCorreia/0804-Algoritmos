@@ -10,9 +10,9 @@ programa {
     leia(int1)
     escreva ("Introduza outro numero inteiro: ")  
     leia(int2)
-    escreva("O valor de int1 �: " + int1 + "\n")
-    escreva("O valor de int2 �: " + int2 + "\n")
-    escreva("O valor da soma �: " + (int1 + int2))
+    escreva("O valor de int1 é: " + int1 + "\n")
+    escreva("O valor de int2 é: " + int2 + "\n")
+    escreva("O valor da soma é: " + (int1 + int2))
   }
 
   funcao paraReais() {
